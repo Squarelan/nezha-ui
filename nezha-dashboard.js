@@ -4,7 +4,7 @@
 // ===== 配置区域 =====
 const neZhaConfig = {
     disableAnimatedMan: 'true',        // 是否禁用动画
-    adminTitle: 'Squarelan',          // 左上角后台名称
+    adminTitle: 'SQUARELAN',          // 左上角后台名称
     fontUrl: 'https://font.sec.miui.com/font/css?family=MiSans:400,700:MiSans', // 自定义字体
     fontFamily: 'MiSans',            // 字体名称
 };
